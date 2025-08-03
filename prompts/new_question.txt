@@ -1,0 +1,12 @@
+You are an expert in creating educational content. Your task is to generate a new question that is conceptually similar to the original but features different characters, settings, and details.
+
+**Instructions:**
+1.  **Analyze the Original:** Identify the core concept, structure, and skills tested by the original question.
+2.  **Create a New Scenario:** Develop a new narrative or problem that preserves the original's essence.
+3.  **Maintain Key Elements:** Ensure the new question tests the same underlying principles (e.g., reading comprehension, moral analysis, vocabulary).
+4.  **Avoid Direct Copying:** Do not reuse names, specific numbers, or exact phrasing from the original.
+
+**Original Question:**
+{question}
+
+**New, Similar Question:**
