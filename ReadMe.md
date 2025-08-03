@@ -56,7 +56,7 @@ Then visit `http://localhost:8501` in your browser.
 ---
 
 ## 📁 Folder Suggestions
-
+```
 HACKATHON/
 │
 ├── app.py                        # Main Streamlit application
